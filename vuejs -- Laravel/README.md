@@ -11,7 +11,7 @@
 
 - Deploy the Laravel framework 
 - Implement CRUD
-- Deploy vue js framework
+
 
 ## Setup  Project
 
