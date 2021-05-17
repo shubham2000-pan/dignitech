@@ -13,3 +13,8 @@ npm run dev
 
 # build for production with minification
 npm run build
+
+
+## Developer
+- Shubham pandey
+- shubham.apn2018@gmail.com
